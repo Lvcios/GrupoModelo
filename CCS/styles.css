@@ -1,0 +1,35 @@
+.alinearcentro
+{
+	text-align:center;
+}
+.link
+{
+	text-align:center;
+	text-transform:capitalize;
+	font-family:Calibri;
+	font-size:22px;
+}
+.titulo
+{
+	text-align:center;
+	font-family:Calibri;
+	letter-spacing:1em;
+	font-size:44px;
+	color:Green;
+}
+.fondopag
+{
+	background-image:url(/CCS/back_all.gif);
+}
+
+.fondomenu
+{
+	
+}
+
+A:link, A:visited { text-decoration: none; }	
+A:hover { text-decoration: none;
+          color:#5257E8;
+          font-size:30px;
+          font-style:italic;}
+          
